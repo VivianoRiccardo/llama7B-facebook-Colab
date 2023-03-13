@@ -14,6 +14,6 @@ You must upload the weights on Google-Drive:
 
 - Create a directory called LLAMA
 
-- Upload the weights download from the previous link with the tokenizer as well
+- Upload the weights downloaded from the previous link with the tokenizer as well
 
 This notebook will connect with your data stored on Google Drive
