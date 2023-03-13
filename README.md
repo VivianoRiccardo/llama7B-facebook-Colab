@@ -16,4 +16,4 @@ You must upload the weights on Google-Drive:
 
 - Upload the weights download from the previous link with the tokenizer as well
 
-This notebook will connect with your data store on Google Drive
+This notebook will connect with your data stored on Google Drive
